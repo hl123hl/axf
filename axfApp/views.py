@@ -4,7 +4,5 @@ from django.shortcuts import render
 
 
 def index(req):
-
-    print(hehe)
     pass
 
